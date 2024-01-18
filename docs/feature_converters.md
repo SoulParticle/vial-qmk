@@ -17,6 +17,7 @@ Currently the following converters are available:
 | `promicro` | `bit_c_pro`       |
 | `promicro` | `stemcell`        |
 | `promicro` | `bonsai_c4`       |
+| `promicro` | `rp2040_ce`       |
 
 See below for more in depth information on each converter.
 
